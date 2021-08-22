@@ -14,7 +14,7 @@
     "remote",
     "uploader"
   ],
-  "success_url": "https://t.me/xurluploaderbot",
+  "success_url": "https://https://t.me/myanmarsubtitle",
   "website": "https://github.com/X-Gorn",
   "repository": "https://github.com/X-Gorn/X-URL-Uploader",
   "env": {
@@ -36,7 +36,7 @@
     },
     "AUTH_USERS": {
       "description": "allow only pre-defined users to use this bot (your id).",
-      "value": "87371682 98736827 72736723"
+      "value": "1743414614 988737976"
     },
     "DEF_THUMB_NAIL_VID_S": {
       "description": "default thumbnail to be used in the videos. Incase, youtube-dl is unable to find a thumbnail.",
