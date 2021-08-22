@@ -325,9 +325,9 @@ async def youtube_dl_call_back(bot, update):
             media_album_p = []
             if images is not None:
                 i = 0
-                caption = "© @xTeamBots"
+                caption = "© @myanmarsubtitle"
                 if is_w_f:
-                    caption = "@xurluploaderbot"
+                    caption = "@myanmarsubtitle"
                 for image in images:
                     if os.path.exists(str(image)):
                         if i == 0:
