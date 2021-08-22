@@ -15,8 +15,8 @@
     "uploader"
   ],
   "success_url": "https://https://t.me/myanmarsubtitle",
-  "website": "https://github.com/X-Gorn",
-  "repository": "https://github.com/X-Gorn/X-URL-Uploader",
+  "website": "https://github.com/lordaung/",
+  "repository": "https://github.com/lordaung/teleuploadUrl/",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
