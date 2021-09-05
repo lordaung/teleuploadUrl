@@ -4,6 +4,9 @@
 Telegram RoBot to Upload Links.
 
 **Features**:
+Heroku
+
+https://dashboard.heroku.com/new?template=https://github.com/lordaung/teleuploadUrl
 
 👉 Only Auth Users (AUTH_USERS) Can Use The Bot
 
