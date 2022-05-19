@@ -3,11 +3,11 @@ beautifulsoup4
 hachoir
 numpy
 Pillow
-pyrogram
+pyrogram==1.2.4
 requests
 tgcrypto
-youtube-dl
+yt-dlp
 olefile
 lk21
 filetype
-tldextract
+tldextrac
